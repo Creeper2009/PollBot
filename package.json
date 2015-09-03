@@ -1,0 +1,23 @@
+{
+  "name": "PollBot",
+  "version": "0.0.1",
+  "description": "An IRC bot for making polls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Creeper2009/PollBot.git"
+  },
+  "author": "ntnick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Creeper2009/PollBot/issues"
+  },
+  "homepage": "https://github.com/Creeper2009/PollBot",
+  "dependencies": {
+    "irc": "^0.3.12",
+    "nedb": "^1.1.3"
+  }
+}
